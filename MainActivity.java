@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
                   	findViewByid
 			123
 			456
+			789
 		break;
                     case R.id.textInput:
                         FragmentTransaction transaction2 = getSupportFragmentManager().beginTransaction();
