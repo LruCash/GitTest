@@ -91,7 +91,8 @@ public class MainActivity extends AppCompatActivity {
                     transaction1.hide(textInputFragment);
                     transaction1.show(zhihuFragment);
                     transaction1.commit();
-                  break;
+                  	findViewByid
+		   break;
                     case R.id.textInput:
                         FragmentTransaction transaction2 = getSupportFragmentManager().beginTransaction();
                         transaction2.hide(connectionFragment);
