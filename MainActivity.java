@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-
+findView BY id
 
 // if (item.getItemId() == R.id.favorite) {
 //         transaction.hide(ZhihuFragment.getZhihuInstance());
