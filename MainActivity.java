@@ -110,7 +110,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 // if (item.getItemId() == R.id.favorite) {
-//         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
 //         transaction.hide(ZhihuFragment.getZhihuInstance());
 //         transaction.show(CollectionFragment.getCollectionInstabce());
 //         transaction.commit();
