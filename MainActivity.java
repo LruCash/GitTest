@@ -116,7 +116,10 @@ public class MainActivity extends AppCompatActivity {
 //         transaction.commit();
 //         } else if (item.getItemId() == R.id.wallet) {
 //         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-//         transaction.hide(CollectionFragment.getCollectionInstabce());
 //         transaction.show(ZhihuFragment.getZhihuInstance());
-//         transaction.commit();
-//         }
+//         transaction.add(LiveclassActivity).add(DetailFragment).show().commit()
+//         }q
+//         Q
+//         www
+//         insert some code
+//         hotfix insert someMore code   
