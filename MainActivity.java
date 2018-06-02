@@ -93,7 +93,8 @@ public class MainActivity extends AppCompatActivity {
                     transaction1.commit();
                   	findViewByid
 			123   
-		break;
+			456
+			break;
                     case R.id.textInput:
                         FragmentTransaction transaction2 = getSupportFragmentManager().beginTransaction();
                         transaction2.hide(connectionFragment);
